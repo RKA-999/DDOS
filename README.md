@@ -11,7 +11,7 @@ To run this tool 🔥
 
 ```
 rm -rf DDOS
-git clone --depth=1 https://github.com/TEAMBCS/DDOS 
+git clone --depth=1 https://github.com/RKA-999/DDOS.git
 cd DDOS
 python ddos.py
 ```
@@ -21,7 +21,7 @@ python ddos.py
 
 ```
 rm -rf DDOS
-git clone --depth=1 https://github.com/TEAMBCS/DDOS 
+git clone --depth=1 https://github.com/RKA-999/DDOS.git 
 cd DDOS
 python ddos2.py
 ```
