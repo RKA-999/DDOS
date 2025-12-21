@@ -26,4 +26,6 @@ cd DDOS
 python ddos2.py
 ```
 
-# Use Termux and Paid VPN 
+# Use Termux and Paid VPN
+
+Check website ip address https://centralops.net/co/
