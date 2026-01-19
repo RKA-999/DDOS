@@ -10,6 +10,12 @@ To run this tool 🔥
 *![1000029134](https://github.com/user-attachments/assets/5bf355e9-2900-4a56-9590-6b7a7e72fae4)
 
 ```
+pkg update && pkg upgrade -y
+pkg install python-pip
+pip install requests
+pip install rich
+pip install requests rich
+
 rm -rf DDOS
 git clone --depth=1 https://github.com/RKA-999/DDOS.git
 cd DDOS
