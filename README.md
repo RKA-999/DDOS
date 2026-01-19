@@ -20,6 +20,7 @@ python ddos.py
 * ![1000029133](https://github.com/user-attachments/assets/ed3d2e52-634b-4f69-b271-564e5b31b1ad)
 
 ```
+pkg update && pkg upgrade -y
 rm -rf DDOS
 git clone --depth=1 https://github.com/RKA-999/DDOS.git 
 cd DDOS
