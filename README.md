@@ -27,6 +27,7 @@ python ddos.py
 
 ```
 pkg update && pkg upgrade -y
+pip install requests rich pyfiglet
 rm -rf DDOS
 git clone --depth=1 https://github.com/RKA-999/DDOS.git 
 cd DDOS
