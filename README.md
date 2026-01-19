@@ -15,7 +15,7 @@ pkg install python-pip
 pip install requests
 pip install rich
 pip install requests rich
-
+pkg install git -y
 rm -rf DDOS
 git clone --depth=1 https://github.com/RKA-999/DDOS.git
 cd DDOS
